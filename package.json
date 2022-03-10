@@ -1,0 +1,26 @@
+{
+    "name": "delicate-theme",
+    "displayName": "Delicate Theme",
+    "description": "Delicate Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Delicate Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Delicate-color-theme.json"
+            },
+            {
+                "label": "Delicate-Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Delicate-Dark-color-theme.json"
+            }
+        ]
+    }
+}
