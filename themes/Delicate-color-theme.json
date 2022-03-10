@@ -1,15 +1,41 @@
 {
 	"name": "Delicate Theme",
 	"type": "light",
-	"colors": {
+	"colors": { // 配置外框主题，导航栏，文件栏，等
 		"editor.background": "#ffffff",
 		"editor.foreground": "#1d1d1f",
 		"list.activeSelectionIconForeground": "#fff",
-		"sideBar.background": "#e7eef0",
+
+		"focusBorder": "#007ACC",
+		"foreground": "#141414",
+		"widget.shadow": "#1283",
+		"selection.background": "#bfd9ff",
+		"icon.foreground": "#0090ff",
+		"sash.hoverBorder": "#0090ff",
+
+		"activityBar.activeBackground": "#dfdfff",
+		"activityBar.activeBorder": "#6677ee",
+		"activityBar.foreground": "#888888",
+		"activityBar.background": "#efefef",
+		"activityBar.dropBorder": "#6677ee",
+		"activityBar.inactiveForeground": "#999",
+		"activityBarBadge.background": "#efefef",
+		"activityBarBadge.foreground": "#121212",
+
+		"sideBar.background": "#f6f6f6",
 		"sideBar.foreground": "#1d1d1f",
-		"sideBar.border": "#eee",
+		"sideBar.border": "#ddd",
+		"sideBar.dropBackground": "#6677ee55",
+		"sideBarTitle.foreground": "#121212",
+		"sideBarSectionHeader.background": "#efefef",
+		"sideBarSectionHeader.foreground": "#121212",
+		
+		"scrollbar.shadow": "#0040ee65",
+		"scrollbarSlider.activeBackground": "#aaaa",
+		"scrollbarSlider.background": "#06f8",
+		"scrollbarSlider.hoverBackground": "#06fd",
 	},
-	"tokenColors": [
+	"tokenColors": [ // 配置代码的颜色
 		{
 			"name": "Comments",
 			"scope": [
