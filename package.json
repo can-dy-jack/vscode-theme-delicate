@@ -2,7 +2,7 @@
     "name": "delicate-theme",
     "displayName": "Delicate Theme",
     "description": "a self-delicate vscode theme",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "license": "MIT",
     "engines": {
         "vscode": "^1.65.0"

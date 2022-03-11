@@ -34,6 +34,12 @@
 		"scrollbarSlider.activeBackground": "#aaaa",
 		"scrollbarSlider.background": "#06f8",
 		"scrollbarSlider.hoverBackground": "#06fd",
+
+		"statusBar.background": "#fefefe",
+		"statusBar.border": "#eee",
+		"statusBar.foreground": "#121212",
+		"statusBar.debuggingBackground": "#cc6633",
+		"statusBar.debuggingForeground": "#fff",
 	},
 	"tokenColors": [ // 配置代码的颜色
 		{
